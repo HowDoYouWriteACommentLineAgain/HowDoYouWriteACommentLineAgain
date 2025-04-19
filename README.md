@@ -1,6 +1,8 @@
 ## Hello there, stranger
 
 [![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Static Badge](https://img.shields.io/badge/Cpp-blue?style=flat-square&logo=c%2B%2B&labelColor=black)
+](https://isocpp.org/)
 <!--
 **HowDoYouWriteACommentLineAgain/HowDoYouWriteACommentLineAgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
