@@ -1,8 +1,12 @@
 ## Hello there, stranger
 
 [![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Static Badge](https://img.shields.io/badge/Cpp-blue?style=flat-square&logo=c%2B%2B&labelColor=black)
-](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/Cpp-blue?style=flat-square&logo=c%2B%2B&labelColor=black)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=c%2B%2B&labelColor=black)](https://www.java.com/en/)
+[![NPM](https://img.shields.io/badge/npm-red?style=flat-square&logo=NPM&logoColor=white)](https://www.npmjs.com/)
+[![Node](https://img.shields.io/badge/Node-green?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
+[![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
+
 <!--
 **HowDoYouWriteACommentLineAgain/HowDoYouWriteACommentLineAgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
