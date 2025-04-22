@@ -1,11 +1,11 @@
 ## Hello there, stranger
 
-[![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C++](https://img.shields.io/badge/Cpp-blue?style=flat-square&logo=c%2B%2B&labelColor=black)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2Rldmljb25zL2Rldmljb24vaWNvbnMvamF2YS9qYXZhLW9yaWdpbmFsLnN2Zw==)](https://www.java.com/en/)
-[![NPM](https://img.shields.io/badge/npm-red?style=flat-square&logo=NPM&logoColor=white&labelColor=black)](https://www.npmjs.com/)
-[![Node](https://img.shields.io/badge/Node-green?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=black)](https://nodejs.org/en)
-[![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white&labelColor=black)](https://www.python.org/)
+[![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/Cpp-blue?style=for-the-badge&logo=c%2B%2B&labelColor=black)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2Rldmljb25zL2Rldmljb24vaWNvbnMvamF2YS9qYXZhLW9yaWdpbmFsLnN2Zw==)](https://www.java.com/en/)
+[![NPM](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=NPM&logoColor=white&labelColor=black)](https://www.npmjs.com/)
+[![Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)](https://nodejs.org/en)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white&labelColor=black)](https://www.python.org/)
 
 <!--
 **HowDoYouWriteACommentLineAgain/HowDoYouWriteACommentLineAgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
