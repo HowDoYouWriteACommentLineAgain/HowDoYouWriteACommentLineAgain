@@ -4,7 +4,7 @@
 [![Metabase](https://img.shields.io/badge/Metabase-%23509EE3?style=for-the-badge&logo=metabase&logoColor=white)](https://www.metabase.com/)
 [![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![NPM](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=NPM)](https://www.npmjs.com/)
-***
+## 
 [![Javascript](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=#23272f&logoSize=auto)](https://react.dev/)
 [![Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
@@ -12,7 +12,7 @@
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
 [![C++](https://img.shields.io/badge/Cpp-blue?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=blue&logoSize=auto)](https://www.python.org/)
-***
+## 
 [![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 <!--
