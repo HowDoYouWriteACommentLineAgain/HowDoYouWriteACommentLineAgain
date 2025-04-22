@@ -1,11 +1,14 @@
 ## Hello there, stranger
 
-[![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C++](https://img.shields.io/badge/Cpp-blue?style=for-the-badge&logo=c%2B%2B&labelColor=black)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2Rldmljb25zL2Rldmljb24vaWNvbnMvamF2YS9qYXZhLW9yaWdpbmFsLnN2Zw==)](https://www.java.com/en/)
-[![NPM](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=NPM&logoColor=white&labelColor=black)](https://www.npmjs.com/)
-[![Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)](https://nodejs.org/en)
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white&labelColor=black)](https://www.python.org/)
+[![Javascript](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=#23272f&logoSize=auto)](https://react.dev/)
+[![Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)](https://www.mysql.com/)
+![PHP](https://img.shields.io/badge/PHP-mediumslateblue?style=for-the-badge&logo=php&logoColor=white&logoSize=auto) 
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
+[![C++](https://img.shields.io/badge/Cpp-blue?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
+[![NPM](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=NPM)](https://www.npmjs.com/)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=blue&logoSize=auto)](https://www.python.org/)
 
 <!--
 **HowDoYouWriteACommentLineAgain/HowDoYouWriteACommentLineAgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
